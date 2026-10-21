@@ -20,12 +20,7 @@
 public class Developer {
     String name = "Milo";
     String field = "Applied Computer Science";
-    String[] skills = {"HTML", "CSS", "Java"};
-    String goal = "Build awesome projects";
-
-    void code() {
-        System.out.println("Turning ideas into reality.");
-    }
+    String[] skills = {"HTML", "CSS", "Java"};  
 }
 ```
 
@@ -51,9 +46,6 @@ public class Developer {
 
 ## 🚀 MY PROJECTS
 
-- 🌐 Website Development
-- 🎮 FiveM Projects
-- ☕ Java Applications
 
 ## 🎯 CURRENTLY LEARNING
 
